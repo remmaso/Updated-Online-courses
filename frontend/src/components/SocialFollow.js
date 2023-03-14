@@ -27,18 +27,18 @@ export default function SocialFollow() {
                     
             
       <h3>US @</h3>
-      <a href="https://www.youtube.com/channel/UCUR-bZgkSCVvpBVvlrXPegg"
+      <a href="https://www.youtube.com"
   className="youtube social">
   <FontAwesomeIcon icon={faYoutube} size="2x" />
 </a>
-<a href="https://www.facebook.com/"
+<a href="https://www.facebook.com"
   className="facebook social">
   <FontAwesomeIcon icon={faFacebook} size="2x" />
 </a>
-<a href="https://twitter.com/" className="twitter social">
+<a href="https://twitter.com" className="twitter social">
   <FontAwesomeIcon icon={faTwitter} size="2x" />
 </a>
-<a href="https://www.instagram.com/"
+<a href="https://www.instagram.com"
   className="instagram social">
   <FontAwesomeIcon icon={faInstagram} size="2x" />
 </a>
